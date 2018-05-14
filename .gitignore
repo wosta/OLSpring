@@ -1,0 +1,10 @@
+#idea
+.idea/
+/idea/
+*.ipr
+
+#.class
+
+#package file
+*.war
+*.ear
